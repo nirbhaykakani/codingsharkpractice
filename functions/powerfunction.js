@@ -8,4 +8,5 @@ function power(n,power){
 
 for(let i=1;i<=10;i++){
     console.log((3*(power(i,2))))
+    console.log((3*(power(i,2))))
 }
